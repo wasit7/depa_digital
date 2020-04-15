@@ -1,6 +1,6 @@
 # depa_digital
 
-##member:
+## member:
 * Wasit Limprasert
 * Pakin Kornthamonphoki
 
