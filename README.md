@@ -1,3 +1,4 @@
 # depa_digital
 
-memmber:
+member:
+
