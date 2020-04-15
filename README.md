@@ -2,6 +2,6 @@
 
 ## member:
 * Wasit Limprasert
-* Pakin Kornthamonphoki
+* Pakin Kornthamonphokin
 
 * Ponkasam Kalapukdee
