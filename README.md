@@ -2,3 +2,5 @@
 
 ##member:
 * Wasit Limprasert
+* Pakin Kornthamonphoki
+
