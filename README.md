@@ -2,7 +2,7 @@
 
 member:
 PAKIN KORNTHAMONPHOKIN
-KITTIPOB SAETIA
+KITTIPOB SAETIA thanapol
 ## member:
 * Wasit Limprasert
 * Pakin Kornthamonphoki
@@ -13,3 +13,4 @@ KITTIPOB SAETIA
 * Wisit Tipchuen
 * KITTIPOB SAETIA
 * Kotchakorn Tiemtud
+* thanapol sawasdee
